@@ -3,11 +3,11 @@ layout: default
 title: Frederic Caeyers - Academic Portfolio
 ---
 
-# Hello world 
+# Welcome 
 
-![Featured Image](/assets/SicilyPantheon.png) 
+![Featured Image](/assets/Marketplace.png) 
 
-- [Hello world](#hello-world)
+- [Welcome](#welcome)
   - [About me](#about-me)
   - [My Publications](#my-publications)
   - [My Classes](#my-classes)
