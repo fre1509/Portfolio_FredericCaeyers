@@ -14,6 +14,10 @@ At University of Central Florida
 
 ## Guest Lectures
 
+(2023)
+**Guest Speaker on the Comparison of VFX and Game Design teaching in Belgian, French and Canadian University Education**
+At VSMU Bratislava
+
 (2020)
 **Guest Lecture on Escape Room Design**
 At Ecole NAD - Université de Québec à Chicoutimi

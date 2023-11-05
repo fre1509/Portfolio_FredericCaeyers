@@ -14,10 +14,10 @@ title: Frederic Caeyers - Academic Portfolio
 
 ### Navigation
 
-- [Projects](/projects)
-- [Publications](/publications)
-- [Education](/education)
-- [Teaching](/teaching)
+- [Projects](/Portfolio_FredericCaeyers/projects/)
+- [Publications](/Portfolio_FredericCaeyers/publications/)
+- [Education](/Portfolio_FredericCaeyers/education/)
+- [Teaching](/Portfolio_FredericCaeyers/teaching/)
 
 ## About Me
 
