@@ -5,14 +5,13 @@ title: Publications
 
 # Academic Publications
 
-**Publication 1**
+### Caeyers, F., & Chiapello, L. (2022). Environmental storytelling in dark rides: A research-creation on designing immersive attractions.
+ITAPJ - Seoul Institute
 
-- Description of Project 1
-- Bullet point about Project 1
 
-**Publication 2**
+### Caeyers, F. (2021). The design of movie-based theme park attractions: Exploring environmental storytelling to create immersive dark ride experiences 
+Masters, Université du Québec à Chicoutimi
 
-- Description of Project 1
-- Bullet point about Project 1
+
 
 # Various Publications

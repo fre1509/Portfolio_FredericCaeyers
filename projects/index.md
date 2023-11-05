@@ -2,13 +2,22 @@
 layout: default 
 title: Project Experiences
 ---
+## Themed Entertainment
 
-**Project 1**
+**Shimao Smurfs Park Shanghai**
 
-- Description of Project 1
-- Bullet point about Project 1
+- A theme park themed around the Smurfs
+- I was working in a team of 3D modellers on the design of the park
 
-**Project 2**
+**Tekzone Jeddah**
 
-- Description of Project 1
-- Bullet point about Project 1
+- A theme park with a futuristic theme
+- I was working in a team of 3D modellers on the design of the park
+
+## Misc
+**Billy Kills The Internet**
+
+- An independent short movie
+- I was tasked with designing the movie poster that would be used as promotional material.
+
+
