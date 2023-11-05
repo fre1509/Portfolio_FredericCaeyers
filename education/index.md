@@ -6,7 +6,7 @@ title: Education
 # Education
 
 ---
-###  PhD in Text & Technology At University of Central Florida 
+**PhD in Text & Technology At University of Central Florida**
 Aug 2023 – present 
 
 (Florida, United States of America)
@@ -21,7 +21,7 @@ Aug 2023 – present
 
 ---
 
-###	 Master in Digital Design At Ecole NAD - Université de Québec à Chicoutimi 
+**Master in Digital Design At Ecole NAD - Université de Québec à Chicoutimi** 
 Aug 2019 – Aug2021
 
 (Québec, Canada)
@@ -44,7 +44,7 @@ Aug 2019 – Aug2021
 
 ---
 
-###  Bachelor 3D Production & VFX (minor in Look Development) At Howest Digital Arts & Entertainment
+**Bachelor 3D Production & VFX (minor in Look Development) At Howest Digital Arts & Entertainment**
 Sept 2016 – June 2019
 
 (West-Flanders, Belgium)
@@ -74,7 +74,7 @@ Sept 2016 – June 2019
 
 ---
 
-###  Erasmus (Study Exchange) 3D Animation & VFX At Ecole Aries-Brassart
+**Erasmus (Study Exchange) 3D Animation & VFX At Ecole Aries-Brassart**
 Sept 2018 to Feb 2019
 
 (Haute-Savoie, France)

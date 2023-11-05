@@ -8,9 +8,16 @@ title: Frederic Caeyers - Academic Portfolio
 ![Featured Image](/assets/Frame15_River.png) 
 
 - [Welcome](#welcome)
+    - [Navigation](#navigation)
   - [About Me](#about-me)
   - [My Socials](#my-socials)
 
+### Navigation
+
+- [Projects](/projects)
+- [Publications](/publications)
+- [Education](/education)
+- [Teaching](/teaching)
 
 ## About Me
 
