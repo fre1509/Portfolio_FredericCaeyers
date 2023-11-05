@@ -5,8 +5,9 @@
 
 header {
 
-    background: url('assets/Frame9_TempleDrop.jpg') center/cover rgb(37, 43, 43);
-
+    background-image: url('assets/Frame9_TempleDrop.jpg');
+    background-size: cover;
+    background-position: center;
 }
 
 header a.button {
