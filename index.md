@@ -28,6 +28,6 @@ Currently I am studying a PhD in Text & Technology at UCF in Orlando, Florida
 
 ## My Socials
 
-[![ArtStation](/assets/Artstation_logo.png = 50x)](https://fredericcaeyers.artstation.com/)
+[![ArtStation](/assets/Artstation_logo.png)](https://fredericcaeyers.artstation.com/)
 
-[![LinkedIn](/assets/LinkedIn_logo.png =50x)](https://www.linkedin.com/in/frederic-caeyers-m-a-713601173/)
+[![LinkedIn](/assets/LinkedIn_logo.png)](https://www.linkedin.com/in/frederic-caeyers-m-a-713601173/)
