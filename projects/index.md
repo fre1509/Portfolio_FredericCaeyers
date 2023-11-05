@@ -2,6 +2,9 @@
 layout: default 
 title: Project Experiences
 ---
+
+[HOME](/Portfolio_FredericCaeyers/)
+
 ## Themed Entertainment
 
 **Shimao Smurfs Park Shanghai**

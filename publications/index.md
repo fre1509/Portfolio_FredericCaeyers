@@ -3,6 +3,8 @@ layout: default
 title: Publications
 ---
 
+[HOME](/Portfolio_FredericCaeyers/)
+
 # Academic Publications
 
 (2022). **Caeyers, F., & Chiapello, L. Environmental storytelling in dark rides: A research-creation on designing immersive attractions.**
