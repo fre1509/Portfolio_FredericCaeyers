@@ -21,6 +21,11 @@ Aug 2023 – present
         -	Research Methods
         -	Humanistic Data Analysis
 
+        2024
+        -   Critical Making
+        -   History in T&T
+        -   Show Writing for Themed Experiences
+
 ---
 
 **Master in Digital Design At Ecole NAD - Université de Québec à Chicoutimi** 

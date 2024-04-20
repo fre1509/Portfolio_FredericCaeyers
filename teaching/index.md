@@ -6,7 +6,7 @@ title: Teaching
 
 ## Classes Taught
 
-(2023)
+(2023-2024)
 **Digital Imaging Fundamentals**
 
 At University of Central Florida 

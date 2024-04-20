@@ -20,6 +20,21 @@ Masters, Université du Québec à Chicoutimi
 
 ## Beyond Gaming
 
+(2024)
+**Verslag: MegaCon Orlando** https://www.beyondgaming.be/threads/verslag-megacon-orlando.29141/
+
+(2024)
+**Review: Skull and Bones** https://www.beyondgaming.be/threads/review-skull-and-bones.29687/
+
+(2024)
+**Filmreview: Anyone But You** https://www.beyondgaming.be/threads/filmreview-anyone-but-you.29140/
+
+(2023)
+**Review: Stronghold Definitive Edition** https://www.beyondgaming.be/threads/review-stronghold-definitive-edition.27483/
+
+(2023)
+**Filmreview: Dumb Money** https://www.beyondgaming.be/threads/filmreview-dumb-money.26875/
+
 (2023)
 **Filmreview: Expend4bles** https://www.beyondgaming.be/threads/filmreview-expend4bles.26835/
 
