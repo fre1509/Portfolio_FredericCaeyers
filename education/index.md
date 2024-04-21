@@ -5,6 +5,8 @@ title: Education
 
 [HOME](/Portfolio_FredericCaeyers/)
 
+
+
 # Education
 
 ---
@@ -22,9 +24,12 @@ Aug 2023 – present
         -	Humanistic Data Analysis
 
         2024
-        -   [Critical Making](/Portfolio_FredericCaeyers/criticalmaking/)
+        -   Critical Making
         -   History in T&T
         -   Show Writing for Themed Experiences
+
+**To check some projects of this class, please click:**
+[Critical Making](/Portfolio_FredericCaeyers/education/criticalmaking/)
 
 ---
 
