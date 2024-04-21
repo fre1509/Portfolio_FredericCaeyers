@@ -12,13 +12,13 @@ title: Education
 -   See the full assignment on this [link](https://fredericcaeyers.artstation.com/projects/VJOa3X).
 For this assignment, I had to create a metaphorical selfie that shows who I am.
 Here is the final painting I made:
-<img src="/assets/FinalSelfieV2.jpg" alt="Featured Image">
+<img src="/Portfolio_FredericCaeyers/assets/FinalSelfieV2.jpg" alt="Featured Image">
 
 
 **Comic**
 -   For our second assignment, we had to make a comic. I decided to make one based on an event that happened that specific day. More specifically about me drawing the comic. Being inspired by Inception (2006) I created comicception.
 Here is the final result:
-<img src="/assets/Assignment2_Comic_Final.jpg" alt="Featured Image">
+<img src="/Portfolio_FredericCaeyers/assets/Assignment2_Comic_Final.jpg" alt="Featured Image">
 
 
 **Dark Ride Generator**
