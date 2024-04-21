@@ -22,7 +22,7 @@ Aug 2023 – present
         -	Humanistic Data Analysis
 
         2024
-        -   Critical Making
+        -   [Critical Making](/Portfolio_FredericCaeyers/education/criticalmaking/)
         -   History in T&T
         -   Show Writing for Themed Experiences
 
